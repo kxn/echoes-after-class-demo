@@ -1,0 +1,47 @@
+# Godot cache and local engine/export templates
+.godot/
+.tools/
+
+# Windows exports belong in GitHub Releases, not source history
+/dist/
+
+# Downloaded references and generated animation intermediates
+/references/
+/assets/animation/
+/assets/fonts/font.zip
+/assets/fonts/fusion/
+/assets/audio/broadcast/voice-*.wav*
+/assets/audio/broadcast/school-dry.wav*
+
+# Captures, recordings and machine-local test/export reports
+/docs/**/*.avi
+/docs/**/*.mp4
+/docs/**/*.webm
+/docs/**/*.gif
+/docs/**/*.log
+/docs/**/*.json
+
+# Editor, Python and private local configuration
+__pycache__/
+*.py[cod]
+*.tmp
+*.bak
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
+
+# Historical image variants; current runtime cards and atlases stay tracked
+/assets/painted/classroom_composite_v*.png*
+/assets/painted/back_desk_[56].png*
+/assets/painted/front_desk_[56].png*
+/docs/**/*.png
+/docs/**/*.jpg
+!/docs/broadcast/announcement.png
+!/docs/painted/01-dialogue.png
+!/docs/painted/02-character-light-on.png
+!/docs/painted/03-character-light-off.png
+!/docs/painted/04-tang-placement.png
+!/docs/painted/05-desk-shadow-on.png
+!/docs/painted/06-desk-shadow-off.png

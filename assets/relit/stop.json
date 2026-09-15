@@ -1,0 +1,16 @@
+{
+  "frames": 8,
+  "source": "stop-v1/video.webm",
+  "source_frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "last_frame": "actor_0_albedo.png",
+  "duration": 0.24,
+  "columns": 8
+}
