@@ -8,7 +8,7 @@
 
 ## Windows 下载
 
-从 [Releases](../../releases) 下载 Windows x64 ZIP，完整解压后运行 `WeixiangDeWanzhong.exe`。保留同目录 `.pck` 文件，无需安装 Godot。
+从 [Releases](https://github.com/kxn/echoes-after-class-demo/releases) 下载 Windows x64 ZIP，完整解压后运行 `WeixiangDeWanzhong.exe`。保留同目录 `.pck` 文件，无需安装 Godot。
 
 ## 从源码运行
 
